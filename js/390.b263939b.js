@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkRoseUI"]=self["webpackChunkRoseUI"]||[]).push([[390],{390:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var r=t(6252);const a=(0,r.Uk)(" Welcome to Rose UI");function u(e,n,t,u,o,s){const c=(0,r.up)("rs-layout");return(0,r.wg)(),(0,r.j4)(c,null,{default:(0,r.w5)((()=>[a])),_:1})}var o={name:"dashboard-index",data(){return{title:"Dashboard"}}},s=t(3744);const c=(0,s.Z)(o,[["render",u]]);var d=c}}]);
+//# sourceMappingURL=390.b263939b.js.map

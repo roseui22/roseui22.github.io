@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkRoseUI"]=self["webpackChunkRoseUI"]||[]).push([[496],{3496:function(e,r,u){u.r(r),u.d(r,{default:function(){return l}});var n=u(6252);function t(e,r,u,t,s,a){const c=(0,n.up)("rs-breadcrumb"),o=(0,n.up)("rs-card"),l=(0,n.up)("rs-layout");return(0,n.wg)(),(0,n.j4)(l,null,{default:(0,n.w5)((()=>[(0,n.Wm)(c),(0,n.Wm)(o)])),_:1})}var s=u(7744),a={name:"form-element-input-vueselect",components:{RsCard:s.Z},setup(){return{}}},c=u(3744);const o=(0,c.Z)(a,[["render",t]]);var l=o}}]);
+//# sourceMappingURL=496.00ff8965.js.map
